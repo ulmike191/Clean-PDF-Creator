@@ -1,0 +1,7 @@
+C:\Users\ulmik\source\repos\VS\TextToAudioFileCreator\bin\Debug\TextToAudioFileCreator.dll.config
+C:\Users\ulmik\source\repos\VS\TextToAudioFileCreator\bin\Debug\TextToAudioFileCreator.dll
+C:\Users\ulmik\source\repos\VS\TextToAudioFileCreator\bin\Debug\TextToAudioFileCreator.pdb
+C:\Users\ulmik\source\repos\VS\TextToAudioFileCreator\obj\Debug\TextToAudioFileCreator.csproj.AssemblyReference.cache
+C:\Users\ulmik\source\repos\VS\TextToAudioFileCreator\obj\Debug\TextToAudioFileCreator.csproj.CoreCompileInputs.cache
+C:\Users\ulmik\source\repos\VS\TextToAudioFileCreator\obj\Debug\TextToAudioFileCreator.dll
+C:\Users\ulmik\source\repos\VS\TextToAudioFileCreator\obj\Debug\TextToAudioFileCreator.pdb

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6bc95c4d-624d-404d-a4da-03ff3aa39be3": {
+      "ProjectGuid": "6bc95c4d-624d-404d-a4da-03ff3aa39be3",
+      "DisplayName": "CleanPDFCreator",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "abed1167-c3c2-46dd-8c18-3140600791bf": {
+      "ProjectGuid": "abed1167-c3c2-46dd-8c18-3140600791bf",
+      "DisplayName": "PDF_Reader",
+      "ColorIndex": 1
+    },
+    "33289e28-a1b1-496f-a751-c753b99cced1": {
+      "ProjectGuid": "33289e28-a1b1-496f-a751-c753b99cced1",
+      "DisplayName": "TextToAudioFileCreator",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

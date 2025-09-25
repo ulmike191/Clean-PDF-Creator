@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanPDFCreator", "CleanPDFCreator.csproj", "{6BC95C4D-624D-404D-A4DA-03FF3AA39BE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToAudioFileCreator", "..\TextToAudioFileCreator\TextToAudioFileCreator.csproj", "{33289E28-A1B1-496F-A751-C753B99CCED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BC95C4D-624D-404D-A4DA-03FF3AA39BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC95C4D-624D-404D-A4DA-03FF3AA39BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC95C4D-624D-404D-A4DA-03FF3AA39BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC95C4D-624D-404D-A4DA-03FF3AA39BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33289E28-A1B1-496F-A751-C753B99CCED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33289E28-A1B1-496F-A751-C753B99CCED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33289E28-A1B1-496F-A751-C753B99CCED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33289E28-A1B1-496F-A751-C753B99CCED1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACD8F5CF-B7DC-4269-B86B-DBE2149C1DB6}
+	EndGlobalSection
+EndGlobal
